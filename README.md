@@ -33,7 +33,7 @@ This repository contains a series of school assignments demonstrating various pr
 
 ### 4. Morse Decryptor
 **Description**: The `MorseDecryptor` class decodes Morse code from a binary format, using custom hash tables and a tuple manager for efficient encoding and decoding. This assignment demonstrates how to work with Morse code and custom data structures.
-- **Files**: `JosephJasonBinary.cpp`
+- **Files**: `FileReader.cpp`, `MorseCode.csv`, `TupleManager.h`, `JosephJasonBinary.cpp`
 - [Detailed README](./4_Morse_Decryptor/README.md)
 
 ### 5. Code39 Cipher
