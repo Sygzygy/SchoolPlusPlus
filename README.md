@@ -1,7 +1,7 @@
 # SchoolPlusPlus
 
 ## Overview
-This repository contains a series of school assignments demonstrating various programming concepts in C++, such as template classes, file handling, heap-based tree structures, Huffman coding, and more. Each assignment is organized into its respective numbered folder, with each folder containing the relevant files and a detailed README. This comprehensive README provides an overview of all assignments and links to their individual READMEs.
+This repository contains a series of school assignments demonstrating various programming concepts in C++, such as template classes, file handling, heap-based tree structures, Huffman coding, and more. Each assignment is organized into its respective numbered folder, with each folder containing the relevant files and a detailed README. This comprehensive README overviews all assignments and links to their individual READMEs.
 
 ## Table of Contents
 1. [Matrix Class Template](#matrix-class-template)
