@@ -1,3 +1,5 @@
+// This header file was initially created by my professor and used for an assignment.
+
 #pragma once
 #include <iostream>
 #include <windows.h>
