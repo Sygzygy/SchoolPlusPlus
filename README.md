@@ -19,7 +19,7 @@ This repository contains a series of school assignments demonstrating various pr
 ### 1. Matrix Class Template
 **Description**: This assignment involves refactoring a `Matrix` class into a class template to allow it to work with various data types, including a custom `Jason` class. The assignment covers matrix operations such as addition, multiplication, rotation, and element insertion.
 - **Files**: `JosephJasonTemplates.cpp`
-- [Detailed README](./1._Matrix_Class_Template/README.md)
+- [Detailed README](./1. Matrix Class Template/README.md)
 
 ### 2. File Reader
 **Description**: The `FileReader` class reads and processes different types of files (text, binary, CSV), providing methods for accessing the contents based on the file format.
